@@ -713,7 +713,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 @media screen  and (max-width: 768px) {
   iframe {
-    width: 400px;  
+    width: 380px;  
   }
 }
 
@@ -824,6 +824,21 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-contact-info ul li.url:before {
   font-size: 23px;
   content: "\e9af";
+}
+
+#fh5co-header {
+  background-image:url(../images/dashboard_bg.jpeg);
+}
+
+@media screen and (max-width: 768px) {
+  #fh5co-header {
+    background-image:url(../images/dashboard_bg_mobile.jpeg);
+  }
+}
+@media screen and (max-width: 480px) {
+  #fh5co-header {
+    background-image:url(../images/dashboard_bg_mobile.jpeg);
+  }
 }
 
 form label {
