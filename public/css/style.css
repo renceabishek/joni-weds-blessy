@@ -710,6 +710,13 @@ h1, h2, h3, h4, h5, h6, figure {
     right: 1em;
   }
 }
+
+@media screen  and (max-width: 768px) {
+  iframe {
+    width: 400px;  
+  }
+}
+
 #fh5co-gallery-list li a .case-studies-summary span {
   text-transform: uppercase;
   letter-spacing: 2px;
