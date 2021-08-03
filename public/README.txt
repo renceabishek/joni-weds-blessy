@@ -1,6 +1,6 @@
 
 TITLE: 
-Wedding - 100% Fully Responsive Free HTML5 Bootstrap Template
+Wedding - Joni weds Blessy, Click here to see our wedding porfolios
 
 AUTHOR:
 DESIGNED & DEVELOPED by GetTemplates.co
